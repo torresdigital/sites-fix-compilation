@@ -70,14 +70,16 @@ Somos uma Agência Gaúcha que trabalha com Desenvolvimento Web voltado para tod
 	/* Custom, iPhone Retina */
 	@media only screen and (max-width : 320px) {
 		
-		html .multi-step-checkout .panel-body {
-    padding: 5px;
-    margin: 0 auto;
-    position: relative;
-    display: initial;
-}
+		html .multi-step-checkout .panel-body {  padding: 5px; margin: 0 auto;  position: relative; display: initial; }
 
-	}
+	html .jp-card .jp-card-back, 
+	html .jp-card .jp-card-front { width: 68%; height: 115%; }
+   
+
+
+
+
+						     }
 
 
 
