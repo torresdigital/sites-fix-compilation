@@ -74,6 +74,7 @@ Somos uma Agência Gaúcha que trabalha com Desenvolvimento Web voltado para tod
 
 	html .jp-card .jp-card-back, 
 	html .jp-card .jp-card-front { width: 68%; height: 115%; }
+	html .jp-card .jp-card-front .jp-card-lower .jp-card-name { font-size: 14px }
    
 
 
