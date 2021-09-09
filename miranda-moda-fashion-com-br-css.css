@@ -69,6 +69,8 @@ Somos uma Agência Gaúcha que trabalha com Desenvolvimento Web voltado para tod
 
 	/* Custom, iPhone Retina */
 	@media only screen and (max-width : 320px) {
+		
+		html .multi-step-checkout .panel-body { padding:5px; }
 
 	}
 
