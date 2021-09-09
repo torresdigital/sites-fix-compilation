@@ -1,0 +1,100 @@
+/* Fix Codes and CSS Styles compilation for Client's and Bro's 
+
+Somos uma Agência Gaúcha que trabalha com Desenvolvimento Web voltado para todos os Nichos do Mercado tais como os de insumos, commodities, pequenos, médios e grandes Lojistas que desejam alcançar mais Clientes através do e-Commerce: Sites, Aplicativos, Lojas Virtuais, Marketplaces, WordPress e Woocommerce, integrados com os Principais Cartões e Soluções de Pagamentos do Brasil e do Mundo; tais como Cielo, CyberSource, PagSeguro, Stripe, Vindi, MasterCard, Visa, American Express, outros.
+    Torres Digital também conta com toda uma Equipe e um Know-how forte, amplo, e moderno e conceitual para a organização e criação de todo um Portifólio para Publicidade e Propaganda.
+    www.torresdigital.com.br * Menos é mais.
+
+
+*/
+
+
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+
+	/*==========  Mobile First Method  ==========*/
+
+	/* Custom, iPhone Retina */
+	@media only screen and (min-width : 320px) {
+
+	}
+
+	/* Extra Small Devices, Phones */
+	@media only screen and (min-width : 480px) {
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (min-width : 768px) {
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (min-width : 992px) {
+
+	}
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (min-width : 1200px) {
+
+	}
+
+
+
+	/*==========  Non-Mobile First Method  ==========*/
+
+	/* Large Devices, Wide Screens */
+	@media only screen and (max-width : 1200px) {
+
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (max-width : 992px) {
+
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (max-width : 768px) {
+
+	}
+
+	/* Extra Small Devices, Phones */
+	@media only screen and (max-width : 480px) {
+
+	}
+
+	/* Custom, iPhone Retina */
+	@media only screen and (max-width : 320px) {
+
+	}
+
+
+
+    /*=====================================================
+    =            Bootstrap 2.3.2 Media Queries            =
+    =====================================================*/
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+    @media only screen and (max-width : 979px) {
+
+    }
+
+    @media only screen and (max-width : 767px) {
+
+    }
+
+    @media only screen and (max-width : 480px) {
+
+    }
+
+    @media only screen and (max-width : 320px) {
+
+    }
+
+
