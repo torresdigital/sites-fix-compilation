@@ -9,6 +9,7 @@ html .woocommerce-page ul.products li.product.box-shadow-1-hover:hover {
     border-radius: 3px;
 }
 
+/*woocommerce products filter´s*/
 html .woocommerce .select2-container .select2-selection--single,
 html .woocommerce select, 
 html .woocommerce-page .select2-container .select2-selection--single, 
