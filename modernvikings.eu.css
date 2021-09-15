@@ -40,6 +40,7 @@ html .mc4wp-form-fields p {
     margin: 0 auto;
     padding: 0;
     position: relative;
+    float: initial;
     text-align: center;
-    display: block;
+    display: contents;
 }
