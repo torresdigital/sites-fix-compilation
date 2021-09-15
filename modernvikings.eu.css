@@ -33,7 +33,11 @@ html #mc4wp-form-1 input {
     float: left;
     position: relative;
     display: block;
+    font-size: 12px;
+    border: 1px solid #000;
 }
+
+
 
 html .mc4wp-form-fields p {
     width: 10%;
