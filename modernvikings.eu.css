@@ -31,3 +31,11 @@ html .woocommerce-page select {
 html #mc4wp-form-1 input {
     max-width: 80%;
 }
+html .mc4wp-form-fields p {
+    width: 10%;
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    text-align: center;
+    display: block;
+}
