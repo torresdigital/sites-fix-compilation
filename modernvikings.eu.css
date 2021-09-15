@@ -30,7 +30,11 @@ html .woocommerce-page select {
 /*Box Search*/
 html #mc4wp-form-1 input {
     max-width: 80%;
+    float: left;
+    position: relative;
+    display: block;
 }
+
 html .mc4wp-form-fields p {
     width: 10%;
     margin: 0 auto;
