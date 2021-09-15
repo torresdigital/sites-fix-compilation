@@ -26,3 +26,8 @@ html .woocommerce-page select {
 
 
 @keyframes shadow-pulse{0% {box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.2);}100% {box-shadow: 0 0 0 15px rgba(0, 0, 0, 0);}}
+
+/*Box Search*/
+html #mc4wp-form-1 input {
+    max-width: 80%;
+}
