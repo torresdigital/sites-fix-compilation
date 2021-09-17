@@ -1,4 +1,4 @@
-html .wp-block-group__inner-container {
+html .wp-block-group__inner-container, html .elementor-section-wrap {
     margin: 0 auto;
     position: relative;
     display: block;
