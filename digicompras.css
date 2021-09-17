@@ -1,4 +1,4 @@
-html .wp-block-group__inner-container, html .elementor-section-wrap {
+html .wp-block-group__inner-container {
     margin: 0 auto;
     position: relative;
     display: block;
@@ -10,4 +10,15 @@ html .woocommerce div.product {
     max-width: 96%;
     position: relative;
     margin: 12px auto;
+}
+html .elementor-1565 .elementor-element.elementor-element-1bfffdc3.elementor-wc-products ul.products li.product span.onsale {
+    display: block;
+    background-color: #03A71C;
+    border-radius: 21px;
+    min-width: 0px;
+    width: 63px;
+    padding: 0;
+    height: 10px;
+    margin: auto;
+    font-size: 12px;
 }
