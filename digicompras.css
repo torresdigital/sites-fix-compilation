@@ -5,3 +5,9 @@ html .wp-block-group__inner-container, html .elementor-section-wrap {
     max-width: 90%;
 }
 
+html .woocommerce div.product {
+    position: relative;
+    max-width: 96%;
+    position: relative;
+    margin: 12px auto;
+}
